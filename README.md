@@ -12,8 +12,8 @@ A simple Android app built with **Jetpack Compose** to demonstrate navigation, b
 ## Video
 
 
-https://github.com/user-attachments/assets/fb746a74-7a3b-4247-95f0-d07733180b22
 
+https://github.com/user-attachments/assets/b3d8d1e5-e4b9-41f6-bf6f-3048c86c2dee
 
 
 ## Tech Stack
@@ -21,5 +21,6 @@ https://github.com/user-attachments/assets/fb746a74-7a3b-4247-95f0-d07733180b22
 - **Jetpack Compose**
 - **Material 3**
 - **Navigation Component**
+
 
 
